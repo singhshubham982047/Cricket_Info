@@ -1,0 +1,17 @@
+.list_Container {
+  background: #303033;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.list {
+  padding: 3px;
+  font-family: "poppins", sans-serif;
+  border-radius: 3px;
+  transition: all 0.3s;
+}
+.list_Container:hover {
+  transform: scaleY(1.05);
+  background-color: gray;
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cricket_info",
+  "version": "1.0.0",
+  "description": "A simple extension to get cricket information from CricketData API.",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Cricket_info",
+    "default_icon": "cricket.png"
+  }
+}
